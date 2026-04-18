@@ -28,7 +28,7 @@ nodes_data = [
     {'id': 'Haskell', 'year': 1990, 'category': 'Functional'},
     {'id': 'OCaml', 'year': 1996, 'category': 'Functional'},
     {'id': 'Julia', 'year': 2012, 'category': 'Functional'},
-    {'id': 'BASIC', 'year': 1964, 'category': 'Scripting'},
+    {'id': 'BASIC', 'year': 1964, 'category': 'Procedural'},
     {'id': 'Perl', 'year': 1987, 'category': 'Scripting'},
     {'id': 'Python', 'year': 1991, 'category': 'Scripting'},
     {'id': 'Ruby', 'year': 1995, 'category': 'Scripting'},
