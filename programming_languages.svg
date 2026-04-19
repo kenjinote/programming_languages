@@ -9,14 +9,14 @@
 <path d="M492.8,135C552.8,135 394.4,80.0 454.4,80.0" stroke="#5a6c7d" stroke-width="1.4" fill="none"  marker-end="url(#as)" opacity="0.7"/>
 <path d="M473.6,180C533.6,180 394.4,100.0 454.4,100.0" stroke="#5a6c7d" stroke-width="1.4" fill="none"  marker-end="url(#as)" opacity="0.7"/>
 <path d="M512.0,215.0C572.0,215.0 548.0,190.0 608.0,190.0" stroke="#5a6c7d" stroke-width="1.4" fill="none"  marker-end="url(#as)" opacity="0.7"/>
-<path d="M512.0,235.0C665.6,235.0 742.4,335 896.0,335" stroke="#5a6c7d" stroke-width="1.4" fill="none"  marker-end="url(#as)" opacity="0.7"/>
-<path d="M550.4,92.5C610.4,92.5 605.6,370.0 665.6,370.0" stroke="#5a6c7d" stroke-width="1.4" fill="none"  marker-end="url(#as)" opacity="0.7"/>
-<path d="M550.4,90.0C610.4,90.0 624.8,325.0 684.8,325.0" stroke="#5a6c7d" stroke-width="1.4" fill="none"  marker-end="url(#as)" opacity="0.7"/>
-<path d="M550.4,95.0C688.64,95.0 757.76,370.0 896.0,370.0" stroke="#5a6c7d" stroke-width="1.4" fill="none"  marker-end="url(#as)" opacity="0.7"/>
-<path d="M550.4,97.5C727.04,97.5 815.36,415.0 992.0,415.0" stroke="#5a6c7d" stroke-width="1.4" fill="none"  marker-end="url(#as)" opacity="0.7"/>
-<path d="M550.4,82.5C796.16,82.5 919.04,170.0 1164.8,170.0" stroke="#5a6c7d" stroke-width="1.4" fill="none"  marker-end="url(#as)" opacity="0.7"/>
-<path d="M550.4,87.5C734.72,87.5 826.88,280.0 1011.2,280.0" stroke="#5a6c7d" stroke-width="1.4" fill="none"  marker-end="url(#as)" opacity="0.7"/>
-<path d="M550.4,85.0C849.9200000000001,85.0 999.6800000000001,225 1299.2,225" stroke="#5a6c7d" stroke-width="1.4" fill="none"  marker-end="url(#as)" opacity="0.7"/>
+<path d="M512.0,225.0C665.6,225.0 742.4,335 896.0,335" stroke="#5a6c7d" stroke-width="1.4" fill="none"  marker-end="url(#as)" opacity="0.7"/>
+<path d="M550.4,90.0C610.4,90.0 605.6,370.0 665.6,370.0" stroke="#5a6c7d" stroke-width="1.4" fill="none"  marker-end="url(#as)" opacity="0.7"/>
+<path d="M550.4,87.5C610.4,87.5 624.8,325.0 684.8,325.0" stroke="#5a6c7d" stroke-width="1.4" fill="none"  marker-end="url(#as)" opacity="0.7"/>
+<path d="M550.4,92.5C688.64,92.5 757.76,370.0 896.0,370.0" stroke="#5a6c7d" stroke-width="1.4" fill="none"  marker-end="url(#as)" opacity="0.7"/>
+<path d="M550.4,95.0C727.04,95.0 815.36,415.0 992.0,415.0" stroke="#5a6c7d" stroke-width="1.4" fill="none"  marker-end="url(#as)" opacity="0.7"/>
+<path d="M550.4,97.5C796.16,97.5 919.04,930.0 1164.8,930.0" stroke="#5a6c7d" stroke-width="1.4" fill="none"  marker-end="url(#as)" opacity="0.7"/>
+<path d="M550.4,85.0C734.72,85.0 826.88,280.0 1011.2,280.0" stroke="#5a6c7d" stroke-width="1.4" fill="none"  marker-end="url(#as)" opacity="0.7"/>
+<path d="M550.4,80.0C849.9200000000001,80.0 999.6800000000001,135 1299.2,135" stroke="#5a6c7d" stroke-width="1.4" fill="none"  marker-end="url(#as)" opacity="0.7"/>
 <path d="M454.4,370.0C514.4,370.0 394.4,335 454.4,335" stroke="#5a6c7d" stroke-width="1.4" fill="none"  marker-end="url(#as)" opacity="0.7"/>
 <path d="M454.4,390.0C538.88,390.0 581.12,390.0 665.6,390.0" stroke="#5a6c7d" stroke-width="1.4" fill="none"  marker-end="url(#as)" opacity="0.7"/>
 <path d="M550.4,325.0C610.4,325.0 624.8,345.0 684.8,345.0" stroke="#5a6c7d" stroke-width="1.4" fill="none"  marker-end="url(#as)" opacity="0.7"/>
@@ -31,10 +31,10 @@
 <path d="M569.6,580C629.6,580 624.8,590.0 684.8,590.0" stroke="#5a6c7d" stroke-width="1.4" fill="none"  marker-end="url(#as)" opacity="0.7"/>
 <path d="M780.8,590.0C840.8,590.0 855.2,580 915.2,580" stroke="#5a6c7d" stroke-width="1.4" fill="none"  marker-end="url(#as)" opacity="0.7"/>
 <path d="M780.8,570.0C840.8,570.0 740.0,535 800.0,535" stroke="#5a6c7d" stroke-width="1.4" fill="none"  marker-end="url(#as)" opacity="0.7"/>
-<path d="M992.0,870C1084.16,870 1130.24,790.0 1222.4,790.0" stroke="#5a6c7d" stroke-width="1.4" fill="none"  marker-end="url(#as)" opacity="0.7"/>
+<path d="M992.0,870C1084.16,870 1130.24,780 1222.4,780" stroke="#5a6c7d" stroke-width="1.4" fill="none"  marker-end="url(#as)" opacity="0.7"/>
 <path d="M665.6,930.0C725.6,930.0 663.2,940 723.2,940" stroke="#5a6c7d" stroke-width="1.4" fill="none"  marker-end="url(#as)" opacity="0.7"/>
-<path d="M665.6,950.0C723.2,950.0 723.1999999999999,905.0 780.8,905.0C838.4,905.0 838.4,950.0 896.0,950.0" stroke="#5a6c7d" stroke-width="1.4" fill="none"  marker-end="url(#as)" opacity="0.7"/>
-<path d="M819.2,940C915.2,940 915.2,900.0 1011.2,900.0C1107.2,900.0 1107.2,950.0 1203.2,950.0" stroke="#5a6c7d" stroke-width="1.4" fill="none"  marker-end="url(#as)" opacity="0.7"/>
+<path d="M665.6,950.0C723.2,950.0 723.1999999999999,995.0 780.8,995.0C838.4,995.0 838.4,950.0 896.0,950.0" stroke="#5a6c7d" stroke-width="1.4" fill="none"  marker-end="url(#as)" opacity="0.7"/>
+<path d="M819.2,940C972.8000000000001,940 1049.6,905.0 1203.2,905.0" stroke="#5a6c7d" stroke-width="1.4" fill="none"  marker-end="url(#as)" opacity="0.7"/>
 <path d="M550.4,345.0C619.52,345.0 654.08,780 723.2,780" stroke="#8b9bac" stroke-width="1.4" fill="none" stroke-dasharray="4,4" marker-end="url(#ad)" opacity="0.7"/>
 <path d="M281.6,590.0C358.40000000000003,590.0 396.8,580 473.6,580" stroke="#8b9bac" stroke-width="1.4" fill="none" stroke-dasharray="4,4" marker-end="url(#ad)" opacity="0.7"/>
 <path d="M608.0,525.0C668.0,525.0 624.8,570.0 684.8,570.0" stroke="#8b9bac" stroke-width="1.4" fill="none" stroke-dasharray="4,4" marker-end="url(#ad)" opacity="0.7"/>
@@ -44,20 +44,19 @@
 <path d="M838.4,725.0C898.4,725.0 836.0,745.0 896.0,745.0" stroke="#8b9bac" stroke-width="1.4" fill="none" stroke-dasharray="4,4" marker-end="url(#ad)" opacity="0.7"/>
 <path d="M838.4,735.0C898.4,735.0 816.8,780 876.8,780" stroke="#8b9bac" stroke-width="1.4" fill="none" stroke-dasharray="4,4" marker-end="url(#ad)" opacity="0.7"/>
 <path d="M915.2,825C1038.0800000000002,825 1099.52,580 1222.4,580" stroke="#8b9bac" stroke-width="1.4" fill="none" stroke-dasharray="4,4" marker-end="url(#ad)" opacity="0.7"/>
-<path d="M550.4,80.0C803.84,80.0 930.56,125.0 1184.0,125.0" stroke="#8b9bac" stroke-width="1.4" fill="none" stroke-dasharray="4,4" marker-end="url(#ad)" opacity="0.7"/>
-<path d="M1011.2,580C1080.32,580 1114.88,145.0 1184.0,145.0" stroke="#8b9bac" stroke-width="1.4" fill="none" stroke-dasharray="4,4" marker-end="url(#ad)" opacity="0.7"/>
-<path d="M761.6,370.0C930.5600000000001,370.0 1015.04,131.66666666666666 1184.0,131.66666666666666" stroke="#8b9bac" stroke-width="1.4" fill="none" stroke-dasharray="4,4" marker-end="url(#ad)" opacity="0.7"/>
+<path d="M550.4,82.5C803.84,82.5 930.56,170.0 1184.0,170.0" stroke="#8b9bac" stroke-width="1.4" fill="none" stroke-dasharray="4,4" marker-end="url(#ad)" opacity="0.7"/>
+<path d="M1011.2,580C1080.32,580 1114.88,190.0 1184.0,190.0" stroke="#8b9bac" stroke-width="1.4" fill="none" stroke-dasharray="4,4" marker-end="url(#ad)" opacity="0.7"/>
+<path d="M761.6,370.0C930.5600000000001,370.0 1015.04,176.66666666666666 1184.0,176.66666666666666" stroke="#8b9bac" stroke-width="1.4" fill="none" stroke-dasharray="4,4" marker-end="url(#ad)" opacity="0.7"/>
 <path d="M608.0,545.0C723.2,545.0 780.8,860.0 896.0,860.0" stroke="#8b9bac" stroke-width="1.4" fill="none" stroke-dasharray="4,4" marker-end="url(#ad)" opacity="0.7"/>
-<path d="M992.0,735C1076.48,735 1118.72,930.0 1203.2,930.0" stroke="#8b9bac" stroke-width="1.4" fill="none" stroke-dasharray="4,4" marker-end="url(#ad)" opacity="0.7"/>
+<path d="M992.0,735C1076.48,735 1118.72,885.0 1203.2,885.0" stroke="#8b9bac" stroke-width="1.4" fill="none" stroke-dasharray="4,4" marker-end="url(#ad)" opacity="0.7"/>
 <path d="M992.0,390.0C1052.0,390.0 932.0,435.0 992.0,435.0" stroke="#8b9bac" stroke-width="1.4" fill="none" stroke-dasharray="4,4" marker-end="url(#ad)" opacity="0.7"/>
-<path d="M896.0,525.0C1011.2,525.0 1068.8,138.33333333333334 1184.0,138.33333333333334" stroke="#8b9bac" stroke-width="1.4" fill="none" stroke-dasharray="4,4" marker-end="url(#ad)" opacity="0.7"/>
+<path d="M896.0,525.0C1011.2,525.0 1068.8,183.33333333333334 1184.0,183.33333333333334" stroke="#8b9bac" stroke-width="1.4" fill="none" stroke-dasharray="4,4" marker-end="url(#ad)" opacity="0.7"/>
 <path d="M992.0,335C1052.0,335 932.0,421.6666666666667 992.0,421.6666666666667" stroke="#8b9bac" stroke-width="1.4" fill="none" stroke-dasharray="4,4" marker-end="url(#ad)" opacity="0.7"/>
 <path d="M300.8,135C423.68,135 485.12,170.0 608.0,170.0" stroke="#8b9bac" stroke-width="1.4" fill="none" stroke-dasharray="4,4" marker-end="url(#ad)" opacity="0.7"/>
-<path d="M992.0,940C1061.12,940 1095.68,190.0 1164.8,190.0" stroke="#8b9bac" stroke-width="1.4" fill="none" stroke-dasharray="4,4" marker-end="url(#ad)" opacity="0.7"/>
-<path d="M512.0,225.0C773.12,225.0 903.68,180.0 1164.8,180.0" stroke="#8b9bac" stroke-width="1.4" fill="none" stroke-dasharray="4,4" marker-end="url(#ad)" opacity="0.7"/>
+<path d="M992.0,940C1061.12,940 1095.68,950.0 1164.8,950.0" stroke="#8b9bac" stroke-width="1.4" fill="none" stroke-dasharray="4,4" marker-end="url(#ad)" opacity="0.7"/>
+<path d="M512.0,235.0C773.12,235.0 903.68,940.0 1164.8,940.0" stroke="#8b9bac" stroke-width="1.4" fill="none" stroke-dasharray="4,4" marker-end="url(#ad)" opacity="0.7"/>
 <path d="M550.4,100.0C688.64,100.0 757.76,930.0 896.0,930.0" stroke="#8b9bac" stroke-width="1.4" fill="none" stroke-dasharray="4,4" marker-end="url(#ad)" opacity="0.7"/>
-<path d="M1280.0,135C1397.5,135 1143.3,370.0 1260.8,370.0" stroke="#8b9bac" stroke-width="1.4" fill="none" stroke-dasharray="4,4" marker-end="url(#ad)" opacity="0.7"/>
-<path d="M1088.0,425C1148.0,425 1162.4,770.0 1222.4,770.0" stroke="#8b9bac" stroke-width="1.4" fill="none" stroke-dasharray="4,4" marker-end="url(#ad)" opacity="0.7"/>
+<path d="M1280.0,180C1375.0,180 1165.8,370.0 1260.8,370.0" stroke="#8b9bac" stroke-width="1.4" fill="none" stroke-dasharray="4,4" marker-end="url(#ad)" opacity="0.7"/>
 <line x1="80.0" y1="80" x2="80.0" y2="970" stroke="#e1e4e8" stroke-width="1"/><text x="80.0" y="45" text-anchor="middle" font-size="16" font-family="sans-serif" fill="#95a5a6" font-weight="bold">1950s</text>
 <line x1="272.0" y1="80" x2="272.0" y2="970" stroke="#e1e4e8" stroke-width="1"/><text x="272.0" y="45" text-anchor="middle" font-size="16" font-family="sans-serif" fill="#95a5a6" font-weight="bold">1960s</text>
 <line x1="464.0" y1="80" x2="464.0" y2="970" stroke="#e1e4e8" stroke-width="1"/><text x="464.0" y="45" text-anchor="middle" font-size="16" font-family="sans-serif" fill="#95a5a6" font-weight="bold">1970s</text>
@@ -79,9 +78,8 @@
 <g><rect x="396.8" y="119.0" width="96" height="32" rx="6" ry="6" fill="#ffffff" fill-opacity="0.9" stroke="#4a7cba" stroke-width="1.8"/><text x="444.8" y="134" text-anchor="middle" font-size="12" font-family="sans-serif" font-weight="bold" fill="#2c3e50">BCPL / B</text><text x="444.8" y="147" text-anchor="middle" font-size="9" font-family="sans-serif" fill="#7f8c8d">1969</text></g>
 <g><rect x="454.4" y="74.0" width="96" height="32" rx="6" ry="6" fill="#ffffff" fill-opacity="0.9" stroke="#4a7cba" stroke-width="1.8"/><text x="502.4" y="89" text-anchor="middle" font-size="12" font-family="sans-serif" font-weight="bold" fill="#2c3e50">C</text><text x="502.4" y="102" text-anchor="middle" font-size="9" font-family="sans-serif" fill="#7f8c8d">1972</text></g>
 <g><rect x="608.0" y="164.0" width="96" height="32" rx="6" ry="6" fill="#ffffff" fill-opacity="0.9" stroke="#4a7cba" stroke-width="1.8"/><text x="656.0" y="179" text-anchor="middle" font-size="12" font-family="sans-serif" font-weight="bold" fill="#2c3e50">Ada</text><text x="656.0" y="192" text-anchor="middle" font-size="9" font-family="sans-serif" fill="#7f8c8d">1980</text></g>
-<g><rect x="1164.8" y="164.0" width="96" height="32" rx="6" ry="6" fill="#ffffff" fill-opacity="0.9" stroke="#4a7cba" stroke-width="1.8"/><text x="1212.8" y="179" text-anchor="middle" font-size="12" font-family="sans-serif" font-weight="bold" fill="#2c3e50">Go</text><text x="1212.8" y="192" text-anchor="middle" font-size="9" font-family="sans-serif" fill="#7f8c8d">2009</text></g>
-<g><rect x="1184.0" y="119.0" width="96" height="32" rx="6" ry="6" fill="#ffffff" fill-opacity="0.9" stroke="#4a7cba" stroke-width="1.8"/><text x="1232.0" y="134" text-anchor="middle" font-size="12" font-family="sans-serif" font-weight="bold" fill="#2c3e50">Rust</text><text x="1232.0" y="147" text-anchor="middle" font-size="9" font-family="sans-serif" fill="#7f8c8d">2010</text></g>
-<g><rect x="1299.2" y="209.0" width="96" height="32" rx="6" ry="6" fill="#ffffff" fill-opacity="0.9" stroke="#4a7cba" stroke-width="1.8"/><text x="1347.2" y="224" text-anchor="middle" font-size="12" font-family="sans-serif" font-weight="bold" fill="#2c3e50">Zig</text><text x="1347.2" y="237" text-anchor="middle" font-size="9" font-family="sans-serif" fill="#7f8c8d">2016</text></g>
+<g><rect x="1184.0" y="164.0" width="96" height="32" rx="6" ry="6" fill="#ffffff" fill-opacity="0.9" stroke="#4a7cba" stroke-width="1.8"/><text x="1232.0" y="179" text-anchor="middle" font-size="12" font-family="sans-serif" font-weight="bold" fill="#2c3e50">Rust</text><text x="1232.0" y="192" text-anchor="middle" font-size="9" font-family="sans-serif" fill="#7f8c8d">2010</text></g>
+<g><rect x="1299.2" y="119.0" width="96" height="32" rx="6" ry="6" fill="#ffffff" fill-opacity="0.9" stroke="#4a7cba" stroke-width="1.8"/><text x="1347.2" y="134" text-anchor="middle" font-size="12" font-family="sans-serif" font-weight="bold" fill="#2c3e50">Zig</text><text x="1347.2" y="147" text-anchor="middle" font-size="9" font-family="sans-serif" fill="#7f8c8d">2016</text></g>
 <g><rect x="358.4" y="364.0" width="96" height="32" rx="6" ry="6" fill="#ffffff" fill-opacity="0.9" stroke="#55a049" stroke-width="1.8"/><text x="406.4" y="379" text-anchor="middle" font-size="12" font-family="sans-serif" font-weight="bold" fill="#2c3e50">Simula 67</text><text x="406.4" y="392" text-anchor="middle" font-size="9" font-family="sans-serif" fill="#7f8c8d">1967</text></g>
 <g><rect x="454.4" y="319.0" width="96" height="32" rx="6" ry="6" fill="#ffffff" fill-opacity="0.9" stroke="#55a049" stroke-width="1.8"/><text x="502.4" y="334" text-anchor="middle" font-size="12" font-family="sans-serif" font-weight="bold" fill="#2c3e50">Smalltalk</text><text x="502.4" y="347" text-anchor="middle" font-size="9" font-family="sans-serif" fill="#7f8c8d">1972</text></g>
 <g><rect x="665.6" y="364.0" width="96" height="32" rx="6" ry="6" fill="#ffffff" fill-opacity="0.9" stroke="#55a049" stroke-width="1.8"/><text x="713.6" y="379" text-anchor="middle" font-size="12" font-family="sans-serif" font-weight="bold" fill="#2c3e50">C++</text><text x="713.6" y="392" text-anchor="middle" font-size="9" font-family="sans-serif" fill="#7f8c8d">1983</text></g>
@@ -113,5 +111,6 @@
 <g><rect x="569.6" y="924.0" width="96" height="32" rx="6" ry="6" fill="#ffffff" fill-opacity="0.9" stroke="#c0392b" stroke-width="1.8"/><text x="617.6" y="939" text-anchor="middle" font-size="12" font-family="sans-serif" font-weight="bold" fill="#2c3e50">CSP</text><text x="617.6" y="952" text-anchor="middle" font-size="9" font-family="sans-serif" fill="#7f8c8d">1978</text></g>
 <g><rect x="723.2" y="924.0" width="96" height="32" rx="6" ry="6" fill="#ffffff" fill-opacity="0.9" stroke="#c0392b" stroke-width="1.8"/><text x="771.2" y="939" text-anchor="middle" font-size="12" font-family="sans-serif" font-weight="bold" fill="#2c3e50">Erlang</text><text x="771.2" y="952" text-anchor="middle" font-size="9" font-family="sans-serif" fill="#7f8c8d">1986</text></g>
 <g><rect x="896.0" y="924.0" width="96" height="32" rx="6" ry="6" fill="#ffffff" fill-opacity="0.9" stroke="#c0392b" stroke-width="1.8"/><text x="944.0" y="939" text-anchor="middle" font-size="12" font-family="sans-serif" font-weight="bold" fill="#2c3e50">Limbo</text><text x="944.0" y="952" text-anchor="middle" font-size="9" font-family="sans-serif" fill="#7f8c8d">1995</text></g>
-<g><rect x="1203.2" y="924.0" width="96" height="32" rx="6" ry="6" fill="#ffffff" fill-opacity="0.9" stroke="#c0392b" stroke-width="1.8"/><text x="1251.2" y="939" text-anchor="middle" font-size="12" font-family="sans-serif" font-weight="bold" fill="#2c3e50">Elixir</text><text x="1251.2" y="952" text-anchor="middle" font-size="9" font-family="sans-serif" fill="#7f8c8d">2011</text></g>
+<g><rect x="1164.8" y="924.0" width="96" height="32" rx="6" ry="6" fill="#ffffff" fill-opacity="0.9" stroke="#c0392b" stroke-width="1.8"/><text x="1212.8" y="939" text-anchor="middle" font-size="12" font-family="sans-serif" font-weight="bold" fill="#2c3e50">Go</text><text x="1212.8" y="952" text-anchor="middle" font-size="9" font-family="sans-serif" fill="#7f8c8d">2009</text></g>
+<g><rect x="1203.2" y="879.0" width="96" height="32" rx="6" ry="6" fill="#ffffff" fill-opacity="0.9" stroke="#c0392b" stroke-width="1.8"/><text x="1251.2" y="894" text-anchor="middle" font-size="12" font-family="sans-serif" font-weight="bold" fill="#2c3e50">Elixir</text><text x="1251.2" y="907" text-anchor="middle" font-size="9" font-family="sans-serif" fill="#7f8c8d">2011</text></g>
 </svg>
