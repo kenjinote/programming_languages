@@ -40,10 +40,12 @@ nodes_data = [
     {'id': 'Self', 'year': 1986, 'category': 'Scripting'},
     {'id': 'CSP', 'year': 1978, 'category': 'Concurrent'},
     {'id': 'Erlang', 'year': 1986, 'category': 'Concurrent'},
+    {'id': 'Limbo', 'year': 1995, 'category': 'Concurrent'},
     {'id': 'Elixir', 'year': 2011, 'category': 'Concurrent'}
 ]
 
 links_data = [
+    # --- 実線（直接の派生・発展） ---
     {'source': 'FORTRAN', 'target': 'ALGOL 60', 'type': 'solid'},
     {'source': 'ALGOL 60', 'target': 'ALGOL 68', 'type': 'solid'},
     {'source': 'ALGOL 60', 'target': 'Pascal', 'type': 'solid'},
@@ -75,7 +77,10 @@ links_data = [
     {'source': 'Standard ML', 'target': 'Haskell', 'type': 'solid'},
     {'source': 'JavaScript', 'target': 'TypeScript', 'type': 'solid'},
     {'source': 'CSP', 'target': 'Erlang', 'type': 'solid'},
+    {'source': 'CSP', 'target': 'Limbo', 'type': 'solid'},
     {'source': 'Erlang', 'target': 'Elixir', 'type': 'solid'},
+    
+    # --- 点線（強い影響・概念の継承） ---
     {'source': 'Smalltalk', 'target': 'Self', 'type': 'dashed'},
     {'source': 'Lisp', 'target': 'ML', 'type': 'dashed'},
     {'source': 'Scheme', 'target': 'Standard ML', 'type': 'dashed'},
@@ -93,7 +98,10 @@ links_data = [
     {'source': 'Java', 'target': 'C#', 'type': 'dashed'},
     {'source': 'Haskell', 'target': 'Rust', 'type': 'dashed'},
     {'source': 'Delphi', 'target': 'C#', 'type': 'dashed'},
-    {'source': 'COBOL', 'target': 'Ada', 'type': 'dashed'}
+    {'source': 'COBOL', 'target': 'Ada', 'type': 'dashed'},
+    {'source': 'Limbo', 'target': 'Go', 'type': 'dashed'},
+    {'source': 'Pascal', 'target': 'Go', 'type': 'dashed'},
+    {'source': 'C', 'target': 'Limbo', 'type': 'dashed'}  # ★追加: ベル研究所系譜のC言語構文の影響
 ]
 
 width, height = 1600, 1050
