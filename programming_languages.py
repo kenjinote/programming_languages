@@ -102,7 +102,8 @@ links_data = [
     {'source': 'Limbo', 'target': 'Go', 'type': 'dashed'},
     {'source': 'Pascal', 'target': 'Go', 'type': 'dashed'},
     {'source': 'C', 'target': 'Limbo', 'type': 'dashed'},
-    {'source': 'Rust', 'target': 'Swift', 'type': 'dashed'}  # ★追加: 現代の安全性重視言語としての相互影響
+    {'source': 'Rust', 'target': 'Swift', 'type': 'dashed'},
+    {'source': 'C#', 'target': 'TypeScript', 'type': 'dashed'}  # ★追加: アンダース・ヘルスバーグ氏を通じた直接的な影響
 ]
 
 width, height = 1600, 1050
