@@ -7,7 +7,6 @@ nodes_data = [
     {'id': 'BCPL / B', 'year': 1969, 'category': 'Procedural'},
     {'id': 'C', 'year': 1972, 'category': 'Procedural'},
     {'id': 'Ada', 'year': 1980, 'category': 'Procedural'},
-    {'id': 'Go', 'year': 2009, 'category': 'Procedural'},
     {'id': 'Rust', 'year': 2010, 'category': 'Procedural'},
     {'id': 'Zig', 'year': 2016, 'category': 'Procedural'},
     {'id': 'Simula 67', 'year': 1967, 'category': 'OOP'},
@@ -41,6 +40,7 @@ nodes_data = [
     {'id': 'CSP', 'year': 1978, 'category': 'Concurrent'},
     {'id': 'Erlang', 'year': 1986, 'category': 'Concurrent'},
     {'id': 'Limbo', 'year': 1995, 'category': 'Concurrent'},
+    {'id': 'Go', 'year': 2009, 'category': 'Concurrent'},     # ★カテゴリーを「Procedural」から「Concurrent」へ変更
     {'id': 'Elixir', 'year': 2011, 'category': 'Concurrent'}
 ]
 
@@ -102,8 +102,7 @@ links_data = [
     {'source': 'Limbo', 'target': 'Go', 'type': 'dashed'},
     {'source': 'Pascal', 'target': 'Go', 'type': 'dashed'},
     {'source': 'C', 'target': 'Limbo', 'type': 'dashed'},
-    {'source': 'Rust', 'target': 'Swift', 'type': 'dashed'},
-    {'source': 'C#', 'target': 'TypeScript', 'type': 'dashed'}  # ★追加: アンダース・ヘルスバーグ氏を通じた直接的な影響
+    {'source': 'Rust', 'target': 'Swift', 'type': 'dashed'}
 ]
 
 width, height = 1600, 1050
