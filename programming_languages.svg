@@ -24,7 +24,7 @@
 <path d="M761.6,383.3333333333333C821.6,383.3333333333333 836.0,390.0 896.0,390.0" stroke="#5a6c7d" stroke-width="1.4" fill="none"  marker-end="url(#as)" opacity="0.7"/>
 <path d="M761.6,390.0C853.76,390.0 899.84,428.3333333333333 992.0,428.3333333333333" stroke="#5a6c7d" stroke-width="1.4" fill="none"  marker-end="url(#as)" opacity="0.7"/>
 <path d="M761.6,376.6666666666667C861.44,376.6666666666667 911.36,300.0 1011.2,300.0" stroke="#5a6c7d" stroke-width="1.4" fill="none"  marker-end="url(#as)" opacity="0.7"/>
-<path d="M780.8,335C972.8,335 1068.8,380 1260.8,380" stroke="#5a6c7d" stroke-width="1.4" fill="none"  marker-end="url(#as)" opacity="0.7"/>
+<path d="M780.8,335C972.8,335 1068.8,390.0 1260.8,390.0" stroke="#5a6c7d" stroke-width="1.4" fill="none"  marker-end="url(#as)" opacity="0.7"/>
 <path d="M992.0,380.0C1052.0,380.0 1008.8,370.0 1068.8,370.0" stroke="#5a6c7d" stroke-width="1.4" fill="none"  marker-end="url(#as)" opacity="0.7"/>
 <path d="M992.0,370.0C1076.48,370.0 1118.72,335 1203.2,335" stroke="#5a6c7d" stroke-width="1.4" fill="none"  marker-end="url(#as)" opacity="0.7"/>
 <path d="M281.6,570.0C373.76,570.0 419.84000000000003,535 512.0,535" stroke="#5a6c7d" stroke-width="1.4" fill="none"  marker-end="url(#as)" opacity="0.7"/>
@@ -56,6 +56,7 @@
 <path d="M992.0,940C1061.12,940 1095.68,190.0 1164.8,190.0" stroke="#8b9bac" stroke-width="1.4" fill="none" stroke-dasharray="4,4" marker-end="url(#ad)" opacity="0.7"/>
 <path d="M512.0,225.0C773.12,225.0 903.68,180.0 1164.8,180.0" stroke="#8b9bac" stroke-width="1.4" fill="none" stroke-dasharray="4,4" marker-end="url(#ad)" opacity="0.7"/>
 <path d="M550.4,100.0C688.64,100.0 757.76,930.0 896.0,930.0" stroke="#8b9bac" stroke-width="1.4" fill="none" stroke-dasharray="4,4" marker-end="url(#ad)" opacity="0.7"/>
+<path d="M1280.0,135C1397.5,135 1143.3,370.0 1260.8,370.0" stroke="#8b9bac" stroke-width="1.4" fill="none" stroke-dasharray="4,4" marker-end="url(#ad)" opacity="0.7"/>
 <line x1="80.0" y1="80" x2="80.0" y2="970" stroke="#e1e4e8" stroke-width="1"/><text x="80.0" y="45" text-anchor="middle" font-size="16" font-family="sans-serif" fill="#95a5a6" font-weight="bold">1950s</text>
 <line x1="272.0" y1="80" x2="272.0" y2="970" stroke="#e1e4e8" stroke-width="1"/><text x="272.0" y="45" text-anchor="middle" font-size="16" font-family="sans-serif" fill="#95a5a6" font-weight="bold">1960s</text>
 <line x1="464.0" y1="80" x2="464.0" y2="970" stroke="#e1e4e8" stroke-width="1"/><text x="464.0" y="45" text-anchor="middle" font-size="16" font-family="sans-serif" fill="#95a5a6" font-weight="bold">1970s</text>
