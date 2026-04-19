@@ -1,5 +1,6 @@
 nodes_data = [
     {'id': 'FORTRAN', 'year': 1957, 'category': 'Procedural'},
+    {'id': 'COBOL', 'year': 1959, 'category': 'Procedural'},
     {'id': 'ALGOL 60', 'year': 1960, 'category': 'Procedural'},
     {'id': 'ALGOL 68', 'year': 1968, 'category': 'Procedural'},
     {'id': 'Pascal', 'year': 1970, 'category': 'Procedural'},
@@ -90,7 +91,9 @@ links_data = [
     {'source': 'Scheme', 'target': 'JavaScript', 'type': 'dashed'}, 
     {'source': 'Ruby', 'target': 'Elixir', 'type': 'dashed'},
     {'source': 'Java', 'target': 'C#', 'type': 'dashed'},
-    {'source': 'Haskell', 'target': 'Rust', 'type': 'dashed'}
+    {'source': 'Haskell', 'target': 'Rust', 'type': 'dashed'},
+    {'source': 'Delphi', 'target': 'C#', 'type': 'dashed'},
+    {'source': 'COBOL', 'target': 'Ada', 'type': 'dashed'}
 ]
 
 width, height = 1600, 1050
@@ -156,6 +159,7 @@ def is_clear(sx, sy, ex, ey, sid, tid):
     return True
 
 svg = f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}" width="{width}" height="{height}">\n'
+svg += f'<title>プログラミング言語 進化の系譜</title>\n'
 svg += f'<rect width="{width}" height="{height}" fill="#fafbfc" />\n'
 svg += '<defs><marker id="as" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#5a6c7d"/></marker>'
 svg += '<marker id="ad" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#8b9bac"/></marker></defs>\n'
